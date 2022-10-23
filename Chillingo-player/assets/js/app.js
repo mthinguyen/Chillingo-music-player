@@ -28,7 +28,7 @@ const songList = [
         cover: "./assets/images/chillhop.jpg"
     },
     {
-        name: "Night Sky Unreated",
+        name: "Night Sky",
         source: "./assets/music/Night Sky.mp3",
         cover: "./assets/images/chillhop-2.jpg"
     },
