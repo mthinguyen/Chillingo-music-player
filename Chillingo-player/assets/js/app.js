@@ -52,9 +52,11 @@ const songList = [
 function createEle(ele) {
     return document.createElement(ele);
 }
+
 function append(parent, child) {
     return parent.append(child);
 }
+
 // creating track list
 const ul = createEle('ul')
 function createPlayList() {
