@@ -28,7 +28,7 @@ const songList = [
         cover: "./assets/images/chillhop.jpg"
     },
     {
-        name: "Night Sky Unreated",
+        name: "Night Sky",
         source: "./assets/music/Night Sky.mp3",
         cover: "./assets/images/chillhop-2.jpg"
     },
@@ -52,9 +52,11 @@ const songList = [
 function createEle(ele) {
     return document.createElement(ele);
 }
+
 function append(parent, child) {
     return parent.append(child);
 }
+
 // creating track list
 const ul = createEle('ul')
 function createPlayList() {
