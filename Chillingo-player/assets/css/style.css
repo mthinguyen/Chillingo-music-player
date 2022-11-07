@@ -7,15 +7,18 @@
 }
 
 :root {
-    --brown-color: #522819;
+    --brown-color: white;
 }
 
 body {
     font-family: '';
     width: 100%;
-    background-color: #F8F1E4;
+    background-color: #595457;
 
     ;
+}
+.Logo{
+    width: 30%;
 }
 
 .container {
@@ -68,19 +71,24 @@ h6 {
 .lead {
     max-width: 600px;
     font-weight: 400;
-    color: #15253a;
+    color: white;
     letter-spacing: 0.5px;
     line-height: 1.2rem;
 }
 
 .musicbox {
     margin-top: 1rem;
+    font-family: poppins;
+    font-weight: 900;
 
 }
 
 .musicbox ul li h3 {
-    color: #15253a;
+    color: white;
     font-weight: 400;
+    font-family: poppins;
+    font-size: 12pt;
+    font-weight: 300;
 }
 
 .playbox {
@@ -88,7 +96,7 @@ h6 {
     width: 40%;
     text-align: center;
     border-radius: 8px;
-    background-color: #f1d69c;
+    background-color: #9762A4;
     position: absolute;
     right: 800px;
 }
