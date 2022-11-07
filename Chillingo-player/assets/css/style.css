@@ -215,12 +215,14 @@ ul li a:hover {
         width: 90%;
         flex: 1;
         margin: 1.5rem auto;
-        
+        border-color: #FFFFFF;
+        border-style: groove;
     }
 
     .playbox {
 
         width: 70%;
+        
     }
 }
 
@@ -245,4 +247,37 @@ ul li a:hover {
 
 .about .center {
     text-align: center;
+}
+
+
+
+.greybg {
+    background-color: #595457;
+}
+
+.textcolor {
+    color:#FFFFFF;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.artistspacing {
+
+        display: flex;
+        margin: 2rem;
+        flex-direction: column;
+        align-items: center;
+    
+    
+}
+
+.artistimages {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+
+.songborder {
+    border-color: #FFFFFF;
+
 }

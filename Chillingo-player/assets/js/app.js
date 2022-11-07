@@ -46,7 +46,34 @@ const songList = [
         name: "Carti Mangolia",
         source: "./assets/music/Carti mangolia.mp3",
         cover: "./assets/images/chillhop-2.jpg"
+    },
+   
+    {
+        name: "Microphone",
+        source: "./assets/music/Young_K_Dvwn_-_Microphone.mp3",
+        cover: "./assets/images/eternal album cover.jpg"
     }
+    ,
+   
+    {
+        name: "Save Your Tears",
+        source: "./assets/music/The_Weeknd_-_Save_Your_Tears.mp3",
+        cover: "./assets/images/the weeknd album cover.jpg"
+    },
+
+    
+    {
+        name: "Needed Me",
+        source: "./assets/music/Rihanna_-_Needed_Me.mp3",
+        cover: "./assets/images/chillhop-2.jpg"
+    },
+
+    ,
+    {
+        name: "ILoveUIHateU",
+        source: "./assets/music/Playboi_Carti_-_IloveUIHateU.mp3",
+        cover: "./assets/images/chillhop-2.jpg"
+    },
 ];
 // helper function
 function createEle(ele) {
