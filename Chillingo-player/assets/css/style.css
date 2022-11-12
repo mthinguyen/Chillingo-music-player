@@ -257,27 +257,35 @@ ul li a:hover {
 
 .textcolor {
     color:#FFFFFF;
-    font-size: 20px;
-    margin-left: 15px;
+    font-size: 22px;
+    margin-left: 100px;
+    margin-top: 80px;
 }
 
-.artistspacing {
-
-        display: flex;
-        margin: 2rem;
-        flex-direction: column;
-        align-items: center;
-    
-    
+.container {
+    display: flex;
+    width: 60%;
+    margin: 15px;
 }
 
 .artistimages {
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 250%;
+    height: auto;
+    margin-left: 200px;
+    margin-top: 70px;
 }
 
 
 .songborder {
     border-color: #FFFFFF;
 
+}
+
+
+
+.artisttitle {
+    font-size: 60px;
+    color: #FFFFFF;
+    margin-left: 270px;
+    margin-top: 50px;
 }

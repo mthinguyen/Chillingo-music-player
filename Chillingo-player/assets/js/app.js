@@ -65,7 +65,7 @@ const songList = [
     {
         name: "Needed Me",
         source: "./assets/music/Rihanna_-_Needed_Me.mp3",
-        cover: "./assets/images/chillhop-2.jpg"
+        cover: "./assets/images/Rihanna_-_Anti.png"
     },
 
     ,
